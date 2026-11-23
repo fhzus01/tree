@@ -4,7 +4,10 @@ BERT(Bidirectional Encoder Representations from Transformers)
 
 
 
-
+오늘은  비가 와서 
+스산한 늦가을의 정취를 만끽
+이런날은 혼자서 커피 마시면서 높은 하늘을 보고 싶어요
+내용 수정했습니다 
 
 
 
